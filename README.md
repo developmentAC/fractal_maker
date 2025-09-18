@@ -85,7 +85,7 @@ Try these example values for `c = (re, im)` in Julia mode:
 
 Experiment with the real and imaginary sliders to discover new shapes!
 
-![logo](graphics/mandelbrot_02.png)
+![logo](graphics/mandelbrot_03.png)
 
 ### Quick Start
 
