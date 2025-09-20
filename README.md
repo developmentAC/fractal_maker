@@ -1,4 +1,4 @@
-# Mandelbrot Fractal Visualizer: An interactive Rust Application to explore the Mandelbrot and Julia Sets
+# Mandelbrot Fractal Visualizer: An interactive Rust application to explore the Mandelbrot and Julia sets
 
 ![logo](graphics/mandelbrot_04.png)
 
